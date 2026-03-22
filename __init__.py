@@ -1,1 +1,1 @@
-# Utils package initialization
+# Backend package initialization
